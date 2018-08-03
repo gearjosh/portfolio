@@ -2,6 +2,15 @@
   background-image: url("../img/dnd-bx.png");
   background-size: cover;
   background-position: center;
+  color: white;
+}
+
+.jumbotron h1 {
+  text-shadow: 3px 3px 2px #EE5029;
+}
+
+.jumbotron p {
+  text-shadow: 2px 2px 1px #9F5272;
 }
 
 .me {
@@ -10,31 +19,43 @@
 
 .panel-heading {
   color: white;
-  text-shadow: 2px 2px 1px #2949A6;
-  background-color: #5990D9;
+  text-shadow: 2px 2px 1px #9F5272;
+  background-color: #59AA4C;
 }
 
 .orange {
-  background-color: #F28627;
+  background-color: #EE5029;
 }
 
-.maroon {
-  background-color: #59100A;
-  color: white;
+.yellow {
+  /* this was maroon */
+  background-color: #F8B334;
 }
 
-.blue3 {
-  background-color: #5990D9;
+.green {
+  /* this was blue3 */
+  background-color: #59AA4C;
   color: white;
-  text-shadow: 2px 2px 1px #2949A6;
+  text-shadow: 2px 2px 1px #35662E;
 }
 
-.blue2 {
-  background-color: #3966BF;
+.purple {
+  /* this was blue2 */
+  background-color: #7A58AF;
   color: white;
-  text-shadow: 2px 2px 1px #2949A6;
+  text-shadow: 2px 2px 1px #9F5272;
+}
+
+.pink {
+  background-color: #9F5272;
 }
 
 .btn {
-  background-color: #5990D9;
+  background-color: #F8B334;
+  text-shadow: 2px 2px 1px #9F5272;
+}
+
+.btn:hover {
+  background-color: #EE5029;
+  text-shadow: 2px 2px 1px #9F5272;
 }
