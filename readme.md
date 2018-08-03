@@ -49,7 +49,9 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 _{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
 
-A couple of days ago, I looked into how to add a favicon to a page on https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page.  That code lives in the head of the HTML because I wanted to get a teeny little screenshot of my Github avatar to show up on the top of the tab.
+A couple of days ago, I looked into how to add a favicon to a page on [Stack Overflow](https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page).  That code lives in the head of the HTML because I wanted to get a teeny little screenshot of my Github avatar to show up on the top of the tab.
+
+I also used the technology of _a piece of paper and a pen_ to map out how to nest my columns and rows so that I could use one well on the left as a sidebar.  I found the method [here](https://stackoverflow.com/questions/16390370/how-can-i-get-a-bootstrap-column-to-span-multiple-rows?rq=1) This would have been nigh impossible without pen and paper.
 
 ### License
 

@@ -1,6 +1,6 @@
 .jumbotron {
-  background-image: url("img/dnd-bx.png");
-  background-size: contain;
+  background-image: url("../img/dnd-bx.png");
+  background-size: cover;
   background-position: center;
 }
 
