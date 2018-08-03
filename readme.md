@@ -29,32 +29,30 @@ _This page details the continuing development of my programming chops.  It shows
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Navigate to https://github.com/gearjosh/portfolio_
+* _Click the green `Clone or download` button on the right, and select `Download ZIP`._
+* _Unzip `portfolio-master.zip`._
+* _Navigate to the `portfolio-master` directory._
+* _Inside `portfolio-master` double-click on `index.html`_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_When viewing index.html on a small screen (tablet or phone) the picture at the bottom of the page is clipped so you can't see the lich or the knight with the shield._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you run into any issues, or have questions, comments, or concerns, you can email me at comedian.sean.connery@gmail.com, though I may not respond right away._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_This site uses HTML, CSS, and the Bootstrap front-end framework._
 
-A couple of days ago, I looked into how to add a favicon to a page on [Stack Overflow](https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page).  That code lives in the head of the HTML because I wanted to get a teeny little screenshot of my Github avatar to show up on the top of the tab.
+_A couple of days ago, I looked into how to add a favicon to a page on [Stack Overflow](https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page).  That code lives in the head of the HTML because I wanted to get a teeny little screenshot of my Github avatar to show up on the top of the tab._
 
-I also used the technology of _a piece of paper and a pen_ to map out how to nest my columns and rows so that I could use one well on the left as a sidebar.  I found the method [here](https://stackoverflow.com/questions/16390370/how-can-i-get-a-bootstrap-column-to-span-multiple-rows?rq=1) This would have been nigh impossible without pen and paper.
+_I also used the technology of_ a piece of paper and a pen _to map out how to nest my columns and rows so that I could use one well on the left as a sidebar.  I found the method [here](https://stackoverflow.com/questions/16390370/how-can-i-get-a-bootstrap-column-to-span-multiple-rows?rq=1) This would have been nigh impossible without pen and paper._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Licensed under GPL*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2018 **_Josh Gearheart_**
