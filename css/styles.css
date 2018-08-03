@@ -14,6 +14,16 @@
   text-shadow: 2px 2px 1px #9F5272;
 }
 
+.page-header {
+  border-radius: 66px;
+  height: 666px;
+  margin-bottom: 1%;
+  background-image: url("../img/lich.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
 .me {
   max-width: 100%;
 }
