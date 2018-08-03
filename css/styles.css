@@ -70,9 +70,13 @@
   text-shadow: 2px 2px 1px #9F5272;
 }
 
-.panel a {
+.panel-heading a {
   color: white;
   text-shadow: 2px 2px 1px #9F5272;
   background-color: #59AA4C;
   font-size: 18px;
+}
+
+.panel-body a {
+  color: #EE5029;
 }
