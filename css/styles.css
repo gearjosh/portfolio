@@ -17,10 +17,19 @@
   max-width: 100%;
 }
 
+.panel {
+  height: 288px;
+}
+
 .panel-heading {
   color: white;
   text-shadow: 2px 2px 1px #9F5272;
   background-color: #59AA4C;
+  font-size: 18px;
+}
+
+.panel-body {
+  font-size: 17px;
 }
 
 .orange {
@@ -58,4 +67,11 @@
 .btn:hover {
   background-color: #EE5029;
   text-shadow: 2px 2px 1px #9F5272;
+}
+
+.panel a {
+  color: white;
+  text-shadow: 2px 2px 1px #9F5272;
+  background-color: #59AA4C;
+  font-size: 18px;
 }
