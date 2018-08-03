@@ -18,7 +18,7 @@ _This page details the continuing development of my programming chops.  It shows
     - Trivia
 - A blurb up top, with a brief introduction to me
 - Links to, and descriptions of seven programming projects:
-  - A page detailing my short term programming goals, my first ever attempt at coding
+  - A page detailing my short term programming goals, my first ever attempt at coding.
   - Two unconnected pages containing some fake information about "me."  Done as HTML practice.
   - A page with some made up facts about pangolins, a very cool animal.  Done as HTML and CSS practice.
   - An informational site about a fictional island run by Dr. Moreau where humans can be transformed into animal hybrids.  Contains multiple pages.  Done as HTML/CSS practice.
@@ -48,6 +48,8 @@ _{Let people know what to do if they run into any issues or have questions, idea
 ## Technologies Used
 
 _{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+
+A couple of days ago, I looked into how to add a favicon to a page on https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page.  That code lives in the head of the HTML because I wanted to get a teeny little screenshot of my Github avatar to show up on the top of the tab.
 
 ### License
 
