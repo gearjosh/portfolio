@@ -1,5 +1,5 @@
-.blurb {
-  background-image: image(img/dnd-bx.png);
+.jumbotron {
+  background-image: url("img/dnd-bx.png");
   background-size: contain;
   background-position: center;
 }
@@ -25,6 +25,12 @@
 
 .blue3 {
   background-color: #5990D9;
+  color: white;
+  text-shadow: 2px 2px 1px #2949A6;
+}
+
+.blue2 {
+  background-color: #3966BF;
   color: white;
   text-shadow: 2px 2px 1px #2949A6;
 }
