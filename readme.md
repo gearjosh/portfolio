@@ -9,7 +9,7 @@
 _This page details the continuing development of my programming chops.  It shows what I look like without a beard, some ~~interesting~~ facts about me, and links to the projects I've made so far in my time programming.  Hopefully you'll be amused!_
 
 ### Site Outline
--On the left:
+- On the left:
   - A picture of me without a beard
   - And below that, links to my:
     - Education
