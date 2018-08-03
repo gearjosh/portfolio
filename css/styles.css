@@ -1,0 +1,30 @@
+.blurb {
+  background-image: image(img/dnd-bx.png);
+  background-size: contain;
+  background-position: center;
+}
+
+.me {
+  max-width: 100%;
+}
+
+.panel-heading {
+  color: white;
+  text-shadow: 2px 2px 1px #2949A6;
+  background-color: #5990D9;
+}
+
+.orange {
+  background-color: #F28627;
+}
+
+.maroon {
+  background-color: #59100A;
+  color: white;
+}
+
+.blue3 {
+  background-color: #5990D9;
+  color: white;
+  text-shadow: 2px 2px 1px #2949A6;
+}
