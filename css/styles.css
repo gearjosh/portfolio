@@ -1,0 +1,93 @@
+.jumbotron {
+  margin-top: 1%;
+  background-image: url("../img/dnd-bx.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.jumbotron h1 {
+  text-shadow: 3px 3px 2px #EE5029;
+}
+
+.jumbotron p {
+  text-shadow: 2px 2px 1px #9F5272;
+}
+
+.page-header {
+  border-radius: 66px;
+  height: 666px;
+  margin-bottom: 1%;
+  background-image: url("../img/lich.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.me {
+  max-width: 100%;
+}
+
+.panel {
+  height: 288px;
+}
+
+.panel-heading {
+  color: white;
+  text-shadow: 2px 2px 1px #9F5272;
+  background-color: #59AA4C;
+  font-size: 18px;
+}
+
+.panel-body {
+  font-size: 17px;
+}
+
+.orange {
+  background-color: #EE5029;
+}
+
+.yellow {
+  background-color: #F8B334;
+}
+
+.green {
+  background-color: #59AA4C;
+  color: white;
+  text-shadow: 2px 2px 1px #35662E;
+}
+
+.purple {
+  background-color: #7A58AF;
+  color: white;
+  text-shadow: 2px 2px 1px #9F5272;
+}
+
+.pink {
+  background-color: #9F5272;
+}
+
+.btn {
+  background-color: #F8B334;
+  text-shadow: 2px 2px 1px #9F5272;
+}
+
+.btn:hover {
+  background-color: #EE5029;
+  text-shadow: 2px 2px 1px #9F5272;
+}
+
+.panel-heading a {
+  color: white;
+  text-shadow: 2px 2px 1px #9F5272;
+  background-color: #59AA4C;
+  font-size: 18px;
+}
+
+.panel-body a {
+  color: #EE5029;
+}
+
+#float-example {
+  float: left;
+}
